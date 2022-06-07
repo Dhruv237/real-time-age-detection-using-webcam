@@ -1,3 +1,9 @@
 # real-time-age-detection-using-webcam or nvidia csi-camera
 This project generally doest therealtime detection of age of a person using system webcamera or nvidia camera  and predicts the age range with some percentag.
-for example for the face of person of age 19 years it will predict 97.37% of range  15-20 years
+for example for the face of person of age 19 years it will predict 97.37% of range  15-20 years with the use of jetson nano kit.
+with the this webcam application we can see the predicted age results on live tracking of our face with different age predictions.
+This project includes primary functionalities:-
+1)detecting face on webcam
+2)capturing and processing of image of the face captured
+3)predicting the age  that face image taken from live camera.
+
