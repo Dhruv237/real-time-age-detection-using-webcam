@@ -6,4 +6,6 @@ This project includes primary functionalities:-
 1)detecting face on webcam
 2)capturing and processing of image of the face captured
 3)predicting the age  that face image taken from live camera.
+Note:-
+for running we have to download the file"res10_300x300_ssd_iter_140000.caffemodel" from  "https://github.com/gopinath-balu/computer_vision/tree/master/CAFFE_DNN" online source as this the size of big file which was not being able to upload in this link so am sorry for that inconvinience
 
